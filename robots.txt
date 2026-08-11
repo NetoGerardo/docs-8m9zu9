@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-e4fxwg.salamcuan.cfd/sitemap.xml
